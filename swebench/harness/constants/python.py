@@ -909,7 +909,7 @@ SPECS_BROWSER_USE = {
         "pip_packages": ["uv"],
         "test_cmd": "uv run pytest -rA",
     }
-    for k in ["0.5.9", "0.5.5"]
+    for k in ["0.5.9", "0.5.5", "0.1.36"]
 }
 
 # Constants - Task Instance Instllation Environment
